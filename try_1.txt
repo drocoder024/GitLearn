@@ -1,1 +1,3 @@
-!this is rebase trial!1
+!this repo is for rebase trial 1.0 and its quite good. 
+
+## lets learn how rebase works actually 
